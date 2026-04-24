@@ -17,7 +17,7 @@
 
 - Website / portfolio: [bartosz.sosna.com.de](https://bartosz.sosna.com.de/)
 - Email: bartosz@sosna.com.de
-- LinkedIn: [in/bartoszsosna](https://www.linkedin.com/in/bartoszsosna/)
+- LinkedIn: [in/bartoszsosna](https://www.linkedin.com/in/bartosz-sosna-58148437/)
 
 ## Model
 
